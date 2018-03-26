@@ -1,0 +1,8 @@
+{
+  "name": "CSAA-Services",
+  "app_id": "",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
